@@ -1,6 +1,6 @@
 # airplane_tickets
 
-A microservice system whose functionality is the sale of airline tickets 
+A microservice system which functionality is the sale of airline tickets 
 are composed of 3 services. Each service has its own function
 in this microservices architecture. All services communicate via HTTP.
 In this maven projet is used Spring Boot and Apache ActiveMQ. 
